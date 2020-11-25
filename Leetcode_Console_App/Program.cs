@@ -16,6 +16,9 @@ namespace Leetcode_Console_App
             //Excel_Sheet_Column_Title excel_Sheet_Column_Title = new Excel_Sheet_Column_Title();
             //excel_Sheet_Column_Title.ConvertToTitle(27);
 
+            Majority_Element majority_Element = new Majority_Element();
+            majority_Element.MajorityElement2(new int[] {3,2,3 });
+
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
