@@ -72,9 +72,11 @@
     <Compile Include="Roman_To_Integer.cs" />
     <Compile Include="Same_Tree.cs" />
     <Compile Include="Search_Insert_Position.cs" />
+    <Compile Include="Single_Number.cs" />
     <Compile Include="Sqrtx.cs" />
     <Compile Include="Symmetric_Tree.cs" />
     <Compile Include="Two_Sum.cs" />
+    <Compile Include="Valid_Palindrome.cs" />
     <Compile Include="Valid_Parentheses.cs" />
   </ItemGroup>
   <ItemGroup>
