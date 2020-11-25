@@ -50,7 +50,9 @@
     <Compile Include="Climbing_Stairs.cs" />
     <Compile Include="Convert_Sorted_Array_to_Binary_Search_Tree.cs" />
     <Compile Include="Count_And_Say.cs" />
+    <Compile Include="Excel_Sheet_Column_Title.cs" />
     <Compile Include="Implement_strStr.cs" />
+    <Compile Include="Intersection_of_Two_Linked_Lists.cs" />
     <Compile Include="Length_of_Last_Word.cs" />
     <Compile Include="Linked_List_Cycle.cs" />
     <Compile Include="Longest_Common_Prefix.cs" />
@@ -78,6 +80,7 @@
     <Compile Include="Sqrtx.cs" />
     <Compile Include="Symmetric_Tree.cs" />
     <Compile Include="Two_Sum.cs" />
+    <Compile Include="Two_Sum_II_-_Input_array_is_sorted.cs" />
     <Compile Include="Valid_Palindrome.cs" />
     <Compile Include="Valid_Parentheses.cs" />
   </ItemGroup>
