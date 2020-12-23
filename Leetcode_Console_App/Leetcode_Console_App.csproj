@@ -58,8 +58,10 @@
     <Compile Include="Factorial_Trailing_Zeroes.cs" />
     <Compile Include="Happy_Number.cs" />
     <Compile Include="House_Robber.cs" />
+    <Compile Include="Implement_Stack_using_Queues.cs" />
     <Compile Include="Implement_strStr.cs" />
     <Compile Include="Intersection_of_Two_Linked_Lists.cs" />
+    <Compile Include="Invert_Binary_Tree.cs" />
     <Compile Include="Isomorphic_Strings.cs" />
     <Compile Include="Length_of_Last_Word.cs" />
     <Compile Include="Linked_List_Cycle.cs" />
