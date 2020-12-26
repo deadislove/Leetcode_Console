@@ -38,5 +38,7 @@ namespace Leetcode_Console_App
 
             return endings.Count == 0;
         }
+
+       
     }
 }

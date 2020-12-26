@@ -8,8 +8,10 @@ namespace Leetcode_Console_App
 {
     class Majority_Element
     {
-        //Problem link: 
+        //Problem link: https://leetcode.com/problems/majority-element/
         //Brute Force
+        /* Time Limit Exceeded
+         */
         public int MajorityElement(int[] nums)
         {
             int Count = nums.Length / 2;
@@ -29,6 +31,11 @@ namespace Leetcode_Console_App
             return -1;
         }
 
+        /// <summary>
+        /// Leetcode - Approach 2: HashMap
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
         public int MajorityElement2(int[] nums)
         {
             Dictionary<int, int> counts = countNums(nums);
