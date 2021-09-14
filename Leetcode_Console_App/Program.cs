@@ -1,3 +1,4 @@
+using Leetcode_Console_App.Microsoft;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +17,12 @@ namespace Leetcode_Console_App
             //Excel_Sheet_Column_Title excel_Sheet_Column_Title = new Excel_Sheet_Column_Title();
             //excel_Sheet_Column_Title.ConvertToTitle(27);
 
-            Majority_Element majority_Element = new Majority_Element();
-            majority_Element.MajorityElement2(new int[] {3,2,3 });
+            //Majority_Element majority_Element = new Majority_Element();
+            //majority_Element.MajorityElement2(new int[] {3,2,3 });
+
+            //RemoveDeuplicatesString.Client();
+            //SearchElementSortedAndRotatedArray.Client();
+            AddTwoNumbers.Client();
 
             Console.WriteLine("Hello World!");
             Console.ReadKey();
