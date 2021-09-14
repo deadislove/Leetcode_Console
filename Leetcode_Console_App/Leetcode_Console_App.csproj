@@ -74,6 +74,7 @@
     <Compile Include="Merge_Two_Sorted_Lists.cs" />
     <Compile Include="Microsoft\AddTwoNumbers.cs" />
     <Compile Include="Microsoft\CheckBinarySearchTree.cs" />
+    <Compile Include="Microsoft\ConnectNodeAtSameLevel.cs" />
     <Compile Include="Microsoft\RemoveDeuplicatesString.cs" />
     <Compile Include="Microsoft\SearchElementSortedAndRotatedArray.cs" />
     <Compile Include="Minimum_Depth_of_Binary_Tree.cs" />
