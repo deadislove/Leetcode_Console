@@ -35,18 +35,16 @@
 - Connect nodes at same level
 > Write a function to connect all the adjacent nodes at the same level in a binary tree. Structure of the given Binary Tree node is like following. 
 
-Geeksforgeeks [Link](https://www.geeksforgeeks.org/connect-nodes-at-same-level/)
-
-Leetcode [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+1. Geeksforgeeks [Link](https://www.geeksforgeeks.org/connect-nodes-at-same-level/)
+2. Leetcode [Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
 - Lowest Common Ancestor in a Binary Tree
 > Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.
 > According to the definition of LCA on [Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor): 
 > “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”
 
-Geeksforgeeks [Link]()
-
-Leetcode [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+1. Geeksforgeeks [Link]()
+2. Leetcode [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 ## Reference link
 [GeeksforGeeks - Microsoft’s most asked interview questions](https://www.geeksforgeeks.org/microsofts-asked-interview-questions/)
