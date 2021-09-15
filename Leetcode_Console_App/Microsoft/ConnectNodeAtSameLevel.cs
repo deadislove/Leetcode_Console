@@ -69,7 +69,7 @@ namespace Leetcode_Console_App.Microsoft
         }
 
         // Driver code
-        public static void Main(String[] args)
+        public static void Client()
         {
             ConnectNodeAtSameLevel tree = new ConnectNodeAtSameLevel();
 
