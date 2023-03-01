@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Leetcode_Console_App
 {
@@ -19,6 +15,7 @@ namespace Leetcode_Console_App
             }
         }
 
+        // Reference link: https://leetcode.com/problems/longest-palindromic-substring/solutions/262528/longest-palindromic-substring-c-clean-solution/
         public static string LongestPalindrome(string s)
         {
             int maxLength = 0, startIndex = 0;
