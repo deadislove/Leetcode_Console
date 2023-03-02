@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="3Sum_Closest.cs" />
+    <Compile Include="4Sum.cs" />
     <Compile Include="Add_Binary.cs" />
     <Compile Include="Balanced_Binary_Tree.cs" />
     <Compile Include="Best_Time_To_Buy_And_Sell_Stock.cs" />
@@ -67,6 +69,7 @@
     <Compile Include="Invert_Binary_Tree.cs" />
     <Compile Include="Isomorphic_Strings.cs" />
     <Compile Include="Length_of_Last_Word.cs" />
+    <Compile Include="Letter_Combinations_of_a_Phone_Number.cs" />
     <Compile Include="Linked_List_Cycle.cs" />
     <Compile Include="Longest_Common_Prefix.cs" />
     <Compile Include="Longest_Palindromic_Substring.cs" />
@@ -107,6 +110,7 @@
     <Compile Include="Same_Tree.cs" />
     <Compile Include="Search_Insert_Position.cs" />
     <Compile Include="Single_Number.cs" />
+    <Compile Include="Sort_an_Array.cs" />
     <Compile Include="Sqrtx.cs" />
     <Compile Include="String_Compression.cs" />
     <Compile Include="String_to_Integer_atoi.cs" />
