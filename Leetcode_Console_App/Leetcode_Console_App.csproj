@@ -105,12 +105,14 @@
     <Compile Include="Search_Insert_Position.cs" />
     <Compile Include="Single_Number.cs" />
     <Compile Include="Sqrtx.cs" />
+    <Compile Include="String_Compression.cs" />
     <Compile Include="Summary_Ranges.cs" />
     <Compile Include="Symmetric_Tree.cs" />
     <Compile Include="Two_Sum.cs" />
     <Compile Include="Two_Sum_II_-_Input_array_is_sorted.cs" />
     <Compile Include="Valid_Palindrome.cs" />
     <Compile Include="Valid_Parentheses.cs" />
+    <Compile Include="Zigzag_Conversion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

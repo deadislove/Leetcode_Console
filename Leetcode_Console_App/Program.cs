@@ -25,9 +25,10 @@ namespace Leetcode_Console_App
             //AddTwoNumbers.Client();
             //ConnectNodeAtSameLevel.Client();
             //LCA_BinaryTree.Client();
+            String_Compression.Client();
             Program program = new Program();
 
-            program.solution(3, new int[] { 1, 2, 3, 3, 1, 3, 1 });
+            //program.solution(3, new int[] { 1, 2, 3, 3, 1, 3, 1 });
 
             Console.WriteLine("Hello World!");
             Console.ReadKey();
