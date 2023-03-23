@@ -119,6 +119,7 @@
     <Compile Include="Sqrtx.cs" />
     <Compile Include="String_Compression.cs" />
     <Compile Include="String_to_Integer_atoi.cs" />
+    <Compile Include="Substring_with_Concatenation_of_All_Words.cs" />
     <Compile Include="Summary_Ranges.cs" />
     <Compile Include="Symmetric_Tree.cs" />
     <Compile Include="Two_Sum.cs" />

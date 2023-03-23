@@ -51,7 +51,7 @@ namespace Leetcode_Console_App
         public static bool IsMatch2(string s, string p)
         {
             Top_Down_Variation top_Down_Variation = new Top_Down_Variation();
-            return top_Down_Variation.IsMatch(s, p):
+            return top_Down_Variation.IsMatch(s, p);
         }
     }
 
