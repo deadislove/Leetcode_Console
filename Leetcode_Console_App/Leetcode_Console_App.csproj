@@ -76,6 +76,7 @@
     <Compile Include="Longest_Common_Prefix.cs" />
     <Compile Include="Longest_Palindromic_Substring.cs" />
     <Compile Include="Longest_Substring_Without_Repeating_Characters.cs" />
+    <Compile Include="Longest_Valid_Parentheses.cs" />
     <Compile Include="Majority_Element.cs" />
     <Compile Include="Maximum_Depth_of_Binary_Tree.cs" />
     <Compile Include="Maximum_Subarray.cs" />
@@ -91,6 +92,7 @@
     <Compile Include="Microsoft\SearchElementSortedAndRotatedArray.cs" />
     <Compile Include="Minimum_Depth_of_Binary_Tree.cs" />
     <Compile Include="Min_Stack.cs" />
+    <Compile Include="Next_Permutation.cs" />
     <Compile Include="Number_of_1_Bits.cs" />
     <Compile Include="Palindrome_Linked_List.cs" />
     <Compile Include="Palindrome_Number.cs" />
@@ -114,6 +116,7 @@
     <Compile Include="Roman_To_Integer.cs" />
     <Compile Include="Same_Tree.cs" />
     <Compile Include="Search_Insert_Position.cs" />
+    <Compile Include="Search_in_Rotated_Sorted_Array.cs" />
     <Compile Include="Single_Number.cs" />
     <Compile Include="Sort_an_Array.cs" />
     <Compile Include="Sqrtx.cs" />
