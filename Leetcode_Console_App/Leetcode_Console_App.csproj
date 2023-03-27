@@ -103,6 +103,7 @@
     <Compile Include="Microsoft\RemoveDeuplicatesString.cs" />
     <Compile Include="Microsoft\SearchElementSortedAndRotatedArray.cs" />
     <Compile Include="Minimum_Depth_of_Binary_Tree.cs" />
+    <Compile Include="Minimum_Path_Sum.cs" />
     <Compile Include="Min_Stack.cs" />
     <Compile Include="Multiply_Strings.cs" />
     <Compile Include="N-Queens_II.cs" />
@@ -139,6 +140,7 @@
     <Compile Include="Single_Number.cs" />
     <Compile Include="Sort_an_Array.cs" />
     <Compile Include="Spiral_Matrix.cs" />
+    <Compile Include="Spiral_Matrix_II.cs" />
     <Compile Include="Sqrtx.cs" />
     <Compile Include="String_Compression.cs" />
     <Compile Include="String_to_Integer_atoi.cs" />
