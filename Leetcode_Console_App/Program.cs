@@ -26,7 +26,8 @@ namespace Leetcode_Console_App
             //ConnectNodeAtSameLevel.Client();
             //LCA_BinaryTree.Client();
             //String_Compression.Client();
-            Substring_with_Concatenation_of_All_Words.Client();
+            //Substring_with_Concatenation_of_All_Words.Client();
+            N_Queens_II.Client();
             Program program = new Program();
 
             //program.solution(3, new int[] { 1, 2, 3, 3, 1, 3, 1 });

@@ -68,15 +68,18 @@
     <Compile Include="Find_First_and_Last_Position_of_Element_in_Sorted_Array.cs" />
     <Compile Include="First_Missing_Positive.cs" />
     <Compile Include="Generate_Parentheses.cs" />
+    <Compile Include="Group_Anagrams.cs" />
     <Compile Include="Happy_Number.cs" />
     <Compile Include="House_Robber.cs" />
     <Compile Include="Implement_Queue_using_Stacks.cs" />
     <Compile Include="Implement_Stack_using_Queues.cs" />
     <Compile Include="Implement_strStr.cs" />
+    <Compile Include="Insert_Interval.cs" />
     <Compile Include="Integer_to_Roman.cs" />
     <Compile Include="Intersection_of_Two_Linked_Lists.cs" />
     <Compile Include="Invert_Binary_Tree.cs" />
     <Compile Include="Isomorphic_Strings.cs" />
+    <Compile Include="Jump_Game.cs" />
     <Compile Include="Jump_Game_II.cs" />
     <Compile Include="Length_of_Last_Word.cs" />
     <Compile Include="Letter_Combinations_of_a_Phone_Number.cs" />
@@ -89,6 +92,7 @@
     <Compile Include="Maximum_Depth_of_Binary_Tree.cs" />
     <Compile Include="Maximum_Subarray.cs" />
     <Compile Include="Median_of_Two_Sorted_Arrays.cs" />
+    <Compile Include="Merge_Intervals.cs" />
     <Compile Include="Merge_k_Sorted_Lists.cs" />
     <Compile Include="Merge_Sorted_Array.cs" />
     <Compile Include="Merge_Two_Sorted_Lists.cs" />
@@ -101,6 +105,7 @@
     <Compile Include="Minimum_Depth_of_Binary_Tree.cs" />
     <Compile Include="Min_Stack.cs" />
     <Compile Include="Multiply_Strings.cs" />
+    <Compile Include="N-Queens_II.cs" />
     <Compile Include="Next_Permutation.cs" />
     <Compile Include="Number_of_1_Bits.cs" />
     <Compile Include="Palindrome_Linked_List.cs" />
@@ -112,6 +117,7 @@
     <Compile Include="Permutations_II.cs" />
     <Compile Include="Plus_One.cs" />
     <Compile Include="Power_of_Two.cs" />
+    <Compile Include="Pow_x_n.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Regular_Expression_Matching.cs" />
@@ -132,6 +138,7 @@
     <Compile Include="Search_in_Rotated_Sorted_Array.cs" />
     <Compile Include="Single_Number.cs" />
     <Compile Include="Sort_an_Array.cs" />
+    <Compile Include="Spiral_Matrix.cs" />
     <Compile Include="Sqrtx.cs" />
     <Compile Include="String_Compression.cs" />
     <Compile Include="String_to_Integer_atoi.cs" />
