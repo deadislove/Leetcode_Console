@@ -23,29 +23,29 @@ namespace Leetcode_Console_App
 
         public static ListNode MergeKLists(ListNode[] lists)
         {
-            //var pq = new PriorityQueue<ListNode, int>();
+            var pq = new PriorityQueue<ListNode, int>();
 
-            //for (int i = 0; i < lists.Length; i++)
-            //{
-            //    if (lists[i] != null)
-            //    {
-            //        pq.Enqueue(lists[i], lists[i].val);
-            //    }
-            //}
+            for (int i = 0; i < lists.Length; i++)
+            {
+                if (lists[i] != null)
+                {
+                    pq.Enqueue(lists[i], lists[i].val);
+                }
+            }
 
             ListNode root = new ListNode(0, null);
-            //var current = root;
+            var current = root;
 
-            //while (pq.Count > 0)
-            //{
-            //    var node = pq.Dequeue();
-            //    if (node.next != null)
-            //    {
-            //        pq.Enqueue(node.next, node.next.val);
-            //    }
-            //    current.next = new ListNode(node.val, null);
-            //    current = current.next;
-            //}
+            while (pq.Count > 0)
+            {
+                var node = pq.Dequeue();
+                if (node.next != null)
+                {
+                    pq.Enqueue(node.next, node.next.val);
+                }
+                current.next = new ListNode(node.val, null);
+                current = current.next;
+            }
 
             return root.next;
         }
