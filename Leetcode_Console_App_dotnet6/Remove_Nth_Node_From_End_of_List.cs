@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Leetcode_Console_App
+﻿namespace Leetcode_Console_App
 {
     public static class Remove_Nth_Node_From_End_of_List
     {
